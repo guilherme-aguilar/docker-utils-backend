@@ -1,6 +1,6 @@
 include:
   #POSTGRES
-  -  ./pg.yml
+  -  pg.yml
   
   #PG BOUNCER
-  -  ./pg-bouncer.yml
+  -  pg-bouncer.yml
